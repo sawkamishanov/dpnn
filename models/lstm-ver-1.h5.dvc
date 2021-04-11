@@ -1,0 +1,4 @@
+outs:
+- md5: 0cd405ef719f56e7a61e08a56a3a1f1f
+  size: 363664
+  path: lstm-ver-1.h5
