@@ -1,0 +1,4 @@
+outs:
+- md5: bef95ffe3f242a050b1a6ea6e0a2fbd1
+  size: 7282880
+  path: savgol-cnn-v2.0.h5
