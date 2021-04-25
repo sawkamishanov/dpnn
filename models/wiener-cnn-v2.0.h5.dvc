@@ -1,0 +1,4 @@
+outs:
+- md5: 68d42cf5407a91daa166f5bf5191db0e
+  size: 7283032
+  path: wiener-cnn-v2.0.h5
