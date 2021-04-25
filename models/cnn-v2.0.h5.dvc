@@ -1,0 +1,4 @@
+outs:
+- md5: 6f7047ffd3fc79c11d90db580eefd32a
+  size: 7274768
+  path: cnn-v2.0.h5
