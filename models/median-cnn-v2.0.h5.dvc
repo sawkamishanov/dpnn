@@ -1,0 +1,4 @@
+outs:
+- md5: af75c76ae83fabec370e71d5e73f57d5
+  size: 7283032
+  path: median-cnn-v2.0.h5
