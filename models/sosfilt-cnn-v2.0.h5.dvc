@@ -1,0 +1,4 @@
+outs:
+- md5: 4f41ce5c937566246a9c14b50a6fe6f5
+  size: 7282880
+  path: sosfilt-cnn-v2.0.h5
