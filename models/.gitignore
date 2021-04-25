@@ -1,2 +1,6 @@
 /cnn-v1.0.h5
 /cnn-v2.0.h5
+/savgol-cnn-v2.0.h5
+/wiener-cnn-v2.0.h5
+/median-cnn-v2.0.h5
+/sosfilt-cnn-v2.0.h5
